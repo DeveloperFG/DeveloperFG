@@ -21,7 +21,11 @@
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  
+<img aling="center" alt="NodeJS" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br/>
+
+	
 
 <p align="left">
   💌 Minhas Redes Sociais: ⤵️
