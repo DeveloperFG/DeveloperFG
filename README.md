@@ -4,7 +4,7 @@
 
 <p align="left"> 
   I am passionate about technology, especially programming.
-  Currently I develop with the javascript language, used for both web sites and mobile development, together with React framework
+  Currently I develop with the javascript language, used for both web sites and mobile development, together with React library
 </p>
 
 ### Technologies I use in my day
