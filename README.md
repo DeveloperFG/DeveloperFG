@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev FG">
 
 <p align="left"> 
- Sou estudante e apaixonado por tecnologias, com ênfase em desenvolvimento, atualmente trabalho em alguns projetos pessoais e atuo como freelancer
- mas buscando oportunidade na poder ingressar nessa aréa desafiadora.
+ Sou estudante e apaixonado por tecnologias, com ênfase em desenvolvimento, atualmente trabalho em alguns projetos pessoais e atuo como freelancer,
+ como profissinal dedicado e focado busco a primeira oportuidade de poder ingressar nessa área desafiadora que é a programação.
 </p>
 
 ### Technologies I use in my day
