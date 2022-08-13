@@ -4,7 +4,7 @@
 
 <p align="left"> 
  Sou estudante e apaixonado por tecnologias, com ênfase em desenvolvimento, atualmente trabalho em alguns projetos pessoais e atuo como freelancer,
- como profissinal dedicado e focado busco a primeira oportuidade de poder ingressar nessa área desafiadora que é a programação.
+ como profissional, sou dedicado, focado, criativo e busco a primeira oportuidade de poder ingressar nessa área desafiadora que é a programação.
 </p>
 
 ### Technologies I use in my day
