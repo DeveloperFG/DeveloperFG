@@ -1,10 +1,10 @@
-### Hi I'm Fernando Gustavo ✌️
+### Olá me chamo Fernando Gustavo ✌️
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev FG">
 
 <p align="left"> 
-  I am passionate about technology, especially programming.
-  Currently I develop with the javascript language, used for both web sites and mobile development, together with React library
+ Sou estudante e apaixonado por tecnologias, com ênfase em desenvolvimento, atualmente trabalho em alguns projetos pessoais e atuo como freelancer
+ mas buscando oportunidade na poder ingressar nessa aréa desafiadora.
 </p>
 
 ### Technologies I use in my day
