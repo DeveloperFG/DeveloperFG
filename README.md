@@ -12,17 +12,13 @@
 
 
 <div styele="display: inline_block"><br/>
-<img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-
-<img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  
-<img aling="center" alt="NodeJS" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='120px' height='150px' >
+<img aling="center" alt="Javascript" src="https://i.ibb.co/jrVxMzf/html.png" width='120px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/b1V84sN/css.png" width='120px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/g6M57S5/react.png" width='120px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/5sGRxvv/node.png" width='120px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='120px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/MPtrpNT/git.png" width='120px'>
 </div><br/>
 
 	
