@@ -12,7 +12,7 @@
 
 
 <div styele="display: inline_block"><br/>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='40px' height='95px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='40px' height='55px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/jrVxMzf/html.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/b1V84sN/css.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='40px'>
