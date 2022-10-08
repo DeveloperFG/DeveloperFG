@@ -12,13 +12,13 @@
 
 
 <div styele="display: inline_block"><br/>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='80px' height='95px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/jrVxMzf/html.png" width='80px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/b1V84sN/css.png" width='80px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='80px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/5sGRxvv/node.png" width='80px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/g6M57S5/react.png" width='80px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/MPtrpNT/git.png" width='80px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='40px' height='95px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/jrVxMzf/html.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/b1V84sN/css.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/5sGRxvv/node.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/g6M57S5/react.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/MPtrpNT/git.png" width='40px'>
 </div><br/>
 
 	
