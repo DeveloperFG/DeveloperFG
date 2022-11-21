@@ -3,12 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Dev FG">
 
 <p align="left"> 
- Sou estudante e apaixonado por tecnologias, com ênfase em desenvolvimento, atualmente trabalho em alguns projetos pessoais e atuo como freelancer,
- como profissional, sou dedicado, focado, criativo, automitivado e disciplinado.
- trabalho desenvolvendo tanto para Web quanto Mobile.
+ Atualmente trabalho como freelancer, Desenvolvendo apps e web sites.
+ Como profissional, sou dedicado, focado, determinado e criativo.
 </p>
 
-### Technologies I use in my day
+### Tecnologias que uso no meu dia.
 
 
 
