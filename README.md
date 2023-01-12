@@ -18,6 +18,7 @@
 <img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/5sGRxvv/node.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/g6M57S5/react.png" width='40px'>
+	<img aling="center" alt="Javascript" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283585i32E35734ADB2BDF9" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/MPtrpNT/git.png" width='40px'>
 </div><br/>
 
