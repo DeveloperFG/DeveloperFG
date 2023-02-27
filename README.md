@@ -9,12 +9,11 @@
 
 ### Tecnologias que uso no meu dia.
 
-
-
 <div styele="display: inline_block"><br/>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/dWMQsrK/javascript.png" width='40px' height='55px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/jrVxMzf/html.png" width='40px'>
-<img aling="center" alt="Javascript" src="https://i.ibb.co/b1V84sN/css.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/kySpBsf/html.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/6PXY0rd/css.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/r76mQqg/js.png" width='40px'>
+<img aling="center" alt="Javascript" src="https://i.ibb.co/JHb2P3y/ts.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/5sGRxvv/node.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/g6M57S5/react.png" width='40px'>
 <img aling="center" alt="Javascript" src="https://i.ibb.co/Sw5xgbg/fire.png" width='40px'>
