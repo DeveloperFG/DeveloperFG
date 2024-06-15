@@ -29,6 +29,9 @@ In my current job I work in the business area, dealing directly with clients, wh
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperFG&show_icons=true&theme=gotham)
 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperFG&theme=blue-green_icons=true&theme=gotham)
+
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Imagem">
